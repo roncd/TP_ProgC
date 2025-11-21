@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-
 int main() {
 float rayon = 3.5;
 double pi = 3.14159;
